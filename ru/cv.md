@@ -1,10 +1,10 @@
 # Щукин Виктор
 
-Junior back-еnd developer
+Back-еnd developer
 
 Мужчина, 23 года, 27.04.2000
 
-Не женат, согласен на переезд
+Cогласен на переезд
 
 #### Контактные данные:
 
@@ -19,18 +19,16 @@ Junior back-еnd developer
 
 #### Ключевые навыки:
 
-Clojure / leiningen / ring / compojure
+Java / Spring / Spring boot / JPA:Hibernate  
+Kotlin / Jetpack Compose
 
-Python / pytest  
-Flask / Django  
-SQLAlchemy / Alembic  
-SQL  
+SQL / PostgresSQL  
 GIT / GIT Flow  
+REST API  
 Docker
 
-Опыт сбора требований к ПО  
+Requirements gathering experience  
 Clean architecture  
-REST  
 OOP / Design patterns
 
 #### Soft skill:
@@ -46,29 +44,35 @@ OOP / Design patterns
 ООО "ГИДРОТЕХ", Россия,
 Ростов-на-Дону, [aquamarina-pool.ru](https://aquamarina-pool.ru/)
 
-Clojure разработчик, с 08.2022 - по настоящее время, удаленно
+Full Stack разработчик, с 01.2023 - 02.2024, удаленно
 
-Проектирование и разработка приложения
-для прогноза продаж.
-На данный момент я закончил основу приложения
-и добавляю новые функции по мере необходимости.
+Я занимался проектированием и разработкой. Данное
+приложение - это инструмент
+для прогноза продаж на основе предыдущих.
 
-[Link to backend](https://github.com/ViktorShchukin/sale-adviser-clojure/tree/dev)  
+
+[Link to backend](https://github.com/ViktorShchukin/saleAdviser/tree/main)  
 [Link to frontend](https://github.com/ViktorShchukin/elmClientForSailAdviser.git)
+
+-----------------------------------
+
+Startup Glagol, Russia
+
+Full Stack разработчик, с 03.2024 - по настоящее время, удаленно
+
+Java / Spring / Kotlin Android / Jetpack Compose
+
+Я разрабатывал клиентскую часть, которая представляла собой 
+андроид приложение. Это было тестовое приложения для 
+подтверждения концепта. Так-же я помогал с серверной частью.
+Glagol - это проект реализующий систему компьютерного 
+зрения на основе информации с одной камеры, с целью
+уменьшения стоимости модуля компьютерного зрения.
+
+[Android app](https://github.com/ViktorShchukin/LocationTracker/tree/main)
 
 #### Обо мне:
 
-Я рад, что вы
-заметили мое резюме. Я молодой
-разработчик, но я
-влюблен в программирование. Мне очень нравиться
-искать и изучать новое
-в этой области. И если у вас есть
-интересный проект, которому требуется новый участник,
-то я тот кто Вам нужен.
-
-У меня уже есть
-некоторый опыт и я хочу
-найти компанию, которая позволит
-мне расти как разработчику программного обеспечения.
-
+Я молодой и амбициозный разработчик. 
+Я люблю программировать и изучать новые технологии.  
+[Мой github](https://github.com/ViktorShchukin)
