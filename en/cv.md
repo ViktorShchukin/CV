@@ -1,6 +1,6 @@
 # Shchukin Viktor
 
-Java back-еnd developer
+Back-еnd developer
 
 Male, 23 years, 27.04.2000
 
