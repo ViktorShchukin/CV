@@ -6,19 +6,19 @@ Male, 23 years, 27.04.2000
 
 agree to relocate
 
-#### Contact details:
+### Contact details
 
 phone: +996 (505) 111 513  
 email: shukin.viktor22@gmail.com  
 telegram: @anorisno
 
-#### Location:
+### Location
 
 Country:  Kyrgyzstan  
 City: Bishkek  
 agree to relocate
 
-#### Primary skill:
+### Primary skill
 
 Java / Spring / Spring boot / JPA:Hibernate  
 Kotlin / Jetpack Compose
@@ -32,14 +32,21 @@ Requirements gathering experience
 Clean architecture  
 OOP / Design patterns
 
-#### Soft skill:
+### Soft skill
 
 Responsibility  
 Discipline  
 English - B1  
 Russian - native
 
-#### Experience
+### Education
+
+08.2018 - 09.2022  
+Degree: incomplete  
+University: D. I. Mendeleev RUSSIAN UNIVERSITY OF CHEMICAL TECHNOLOGY  
+Field of study: Chemistry, Chemical technology of materials of modern power engineering  
+
+### Experience
 
 ООО "ГИДРОТЕХ", Russia,
 [aquamarina-pool.ru](https://aquamarina-pool.ru/)
@@ -70,7 +77,7 @@ just one camera instead of lidars.
 
 [Android app](https://github.com/ViktorShchukin/LocationTracker/tree/main)
 
-#### About me
+### About me
 
 I am a young and ambitious developer.
 I love programming and work to grow in this field.  
