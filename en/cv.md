@@ -1,52 +1,44 @@
-# Shchukin Viktor
+# Java Back-еnd developer
 
-Back-еnd developer
+### Personal data:
 
-Male, 23 years, 27.04.2000
+Surname, first name: Shchukin, Viktor  
+Location: Georgia, Tbilisi  
+Email: shukin.viktor22@gmail.com  
+Telegram: [@anorisno](https://t.me/anorisno)   
+WhatsApp: +996 505 11 1513  
+Gender: Male  
+Date of birth: 27.04.2000  
+Marital status: single  
 
-agree to relocate
-
-### Contact details
-
-phone: +996 (505) 111 513  
-email: shukin.viktor22@gmail.com  
-telegram: @anorisno
-
-### Location
-
-Country:  Kyrgyzstan  
-City: Bishkek  
-agree to relocate
-
-### Primary skill
+### Primary skills:
 
 Java / Spring / Spring boot / JPA:Hibernate  
 Kotlin / Jetpack Compose
 
-SQL / PostgresSQL  
+SQL / PostgreSQL  
 GIT / GIT Flow  
 REST API  
 Docker
 
-Requirements gathering experience  
 Clean architecture  
 OOP / Design patterns
 
-### Soft skill
+### Soft skills:
 
-Responsibility  
-Discipline  
-English - B1  
-Russian - native
+Time management / Discipline / Responsibility  
+Communication skills / Requirements gathering  
+English: B1-B2  
+Russian: native
 
-### Education
+### Education:
 
 08.2018 - 09.2022  
 Degree: incomplete  
 University: D. I. Mendeleev RUSSIAN UNIVERSITY OF CHEMICAL TECHNOLOGY  
 Field of study: Chemistry, Chemical technology of materials of modern power engineering  
 
-### Experience
+### Experience:
 
 ООО "ГИДРОТЕХ", Russia,
 [aquamarina-pool.ru](https://aquamarina-pool.ru/)
@@ -55,8 +47,9 @@ Full Stack developer, since 01.2023 - 02.2024, remote
 
 Java / Spring / Hibernate / Elm / Elm-land
 
-I designed and developed the whole application.
-This app is a tool for forecasting sales based on previous results.
+I was only one developer so, I designed and developed the whole application.  
+This app is an automation tool for forecasting
+sales based on previous results.
 
 [Link to backend](https://github.com/ViktorShchukin/saleAdviser/tree/main)  
 [Link to frontend](https://github.com/ViktorShchukin/elmClientForSailAdviser.git)
@@ -65,20 +58,29 @@ This app is a tool for forecasting sales based on previous results.
 
 Startup Glagol, Russia
 
-Full Stack developer, since 03.2024 - until now, remote
+Full Stack developer, since 03.2024 - current time, remote
 
 Java / Spring / Kotlin Android / Jetpack Compose  
 
-I developed the client side, which is an Android app. It is
-test app to prove the idea. Also, I assisted with the server side.  
+I am developing the client side, which is an Android app. It is a
+test app that proves the idea. Also, I assisted with the server-side logic.  
 Glagol is a project that aims to implement computer
 vision and spatial orientation using information from
 just one camera instead of lidars.
 
 [Android app](https://github.com/ViktorShchukin/LocationTracker/tree/main)
 
-### About me
+### About me:
 
 I am a young and ambitious developer.
 I love programming and work to grow in this field.  
-[My github](https://github.com/ViktorShchukin)
+I am inspired by mathematics and science. I can say that currently, 
+it is my hobby. But simultaneously while studying at university, I
+worked at a chemical research institute. As a result of my work
+two scientific articles were made:  
+[First article](https://doi.org/10.3390/inorganics10090127)  
+[Second article](https://doi.org/10.1016/j.nima.2022.167637)  
+I lead a healthy lifestyle and believe self-discipline is the key to success.  
+My links:  
+[My GitHub](https://github.com/ViktorShchukin)  
+[LinkedIn](https://www.linkedin.com/in/viktor-shchukin-682a33259/)  
