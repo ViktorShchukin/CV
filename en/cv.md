@@ -6,7 +6,7 @@ Surname, first name: Shchukin, Viktor
 Location: Georgia, Tbilisi  
 Email: shukin.viktor22@gmail.com  
 Telegram: [@anorisno](https://t.me/anorisno)   
-WhatsApp: +995 593 46 62 32 
+WhatsApp: +995 593 46 62 32  
 Gender: Male  
 Date of birth: 27.04.2000  
 Marital status: single  
